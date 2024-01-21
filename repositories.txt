@@ -1,0 +1,6 @@
+https://github.com/Tib3rius/AutoRecon.git
+https://github.com/nicocha30/ligolo-ng.git
+https://github.com/fortra/impacket.git
+https://github.com/ropnop/windapsearch.git
+https://github.com/t3l3machus/Villain.git
+https://github.com/PowerShellMafia/PowerSploit
