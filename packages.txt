@@ -2,3 +2,5 @@ tldr
 gh
 golang
 sshuttle
+dos2unix
+chisel
