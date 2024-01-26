@@ -4,3 +4,4 @@ golang
 sshuttle
 dos2unix
 chisel
+freerdp2-x11
