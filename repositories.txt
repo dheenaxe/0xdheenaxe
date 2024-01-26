@@ -5,3 +5,4 @@ https://github.com/ropnop/windapsearch.git
 https://github.com/t3l3machus/Villain.git
 https://github.com/PowerShellMafia/PowerSploit
 https://github.com/andrew-d/static-binaries/
+https://github.com/int0x33/nc.exe
