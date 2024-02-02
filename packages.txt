@@ -6,3 +6,4 @@ dos2unix
 chisel
 freerdp2-x11
 dirsearch
+redis-tools
