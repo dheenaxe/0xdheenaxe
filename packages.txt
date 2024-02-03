@@ -8,3 +8,4 @@ freerdp2-x11
 dirsearch
 redis-tools
 mongodb-clients
+gobuster
