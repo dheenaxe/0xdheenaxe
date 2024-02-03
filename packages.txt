@@ -9,3 +9,4 @@ dirsearch
 redis-tools
 mongodb-clients
 gobuster
+awscli
