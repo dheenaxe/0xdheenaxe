@@ -10,3 +10,6 @@ redis-tools
 mongodb-clients
 gobuster
 awscli
+mousepad
+hash-identifier
+frackzip
