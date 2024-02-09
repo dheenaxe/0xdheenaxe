@@ -10,3 +10,4 @@ https://github.com/santoru/shcheck
 https://github.com/Dewalt-arch/pimpmykali
 https://github.com/Gr1mmie/Windows-Priviledge-Escalation-Resources
 https://github.com/DominicBreuker/pspy
+https://github.com/samratashok/nishang/
