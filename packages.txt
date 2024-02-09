@@ -13,3 +13,4 @@ awscli
 mousepad
 hash-identifier
 frackzip
+ssh
