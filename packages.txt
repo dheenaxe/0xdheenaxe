@@ -16,3 +16,4 @@ frackzip
 ssh
 mdbtools
 7zip
+readpst
