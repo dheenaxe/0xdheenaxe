@@ -14,3 +14,4 @@ mousepad
 hash-identifier
 frackzip
 ssh
+mdbtools
