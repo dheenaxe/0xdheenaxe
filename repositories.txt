@@ -8,6 +8,6 @@ https://github.com/andrew-d/static-binaries/
 https://github.com/int0x33/nc.exe
 https://github.com/santoru/shcheck
 https://github.com/Dewalt-arch/pimpmykali
-https://github.com/Gr1mmie/Windows-Priviledge-Escalation-Resources
 https://github.com/DominicBreuker/pspy
 https://github.com/samratashok/nishang/
+https://github.com/AonCyberLabs/Windows-Exploit-Suggester
