@@ -12,7 +12,6 @@ gobuster
 awscli
 mousepad
 hash-identifier
-fcrackzip
 ssh
 mdbtools
 7zip
