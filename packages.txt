@@ -19,3 +19,4 @@ mdbtools
 pst-utils
 python3-ldap
 crackmapexec
+urlencode
