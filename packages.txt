@@ -18,3 +18,4 @@ mdbtools
 7zip
 pst-utils
 python3-ldap
+crackmapexec
