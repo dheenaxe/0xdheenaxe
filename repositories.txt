@@ -14,3 +14,4 @@ https://github.com/AonCyberLabs/Windows-Exploit-Suggester
 https://github.com/Re4son/Chimichurri
 https://github.com/antonioCoco/JuicyPotatoNG
 https://github.com/ropnop/kerbrute
+https://github.com/nongiach/sudo_inject
